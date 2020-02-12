@@ -1,5 +1,3 @@
-#base add 2222
-#base add 3333
 import time
 
 class BasePage:
